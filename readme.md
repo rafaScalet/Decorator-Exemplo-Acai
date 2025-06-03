@@ -1,3 +1,8 @@
+# Decorator Exemplo Açai
+
+> [!IMPORTANT]
+Baixe o `zip` ou o `tar.gz` das [Releases](https://github.com/rafaScalet/Decorator-Exemplo-Acai/releases/tag/v1.0.0) caso queira somente os códigos
+
 ## Diagrama
 
 ![Diagrama](./Exemplo-Cafe.drawio.svg)
@@ -19,6 +24,7 @@ git clone git@github.com:rafaScalet/Decorator-Exemplo-Acai.git
 ```bash
 gh repo clone rafaScalet/Decorator-Exemplo-Acai
 ```
+
 
 ### Builde o projeto:
 
