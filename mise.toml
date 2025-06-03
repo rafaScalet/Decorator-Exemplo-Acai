@@ -1,0 +1,8 @@
+[tools]
+java = '21'
+
+[tasks]
+build = 'javac -d dist $(find -name "*.java")'
+execute = 'java -cp dist Main'
+jar = 'jar cfm "$(basename "$PWD").jar" manifest.mf -C dist .'
+jar-run = 'java -jar "$(basename "$PWD").jar"'
