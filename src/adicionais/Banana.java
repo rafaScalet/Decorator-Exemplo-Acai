@@ -9,7 +9,7 @@ public class Banana extends Adicionais {
 
   @Override
   public double custo() {
-    return super.custo() + 2;
+    return super.custo() + 3.5;
   }
 
   @Override

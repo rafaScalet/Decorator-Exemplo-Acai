@@ -1,13 +1,13 @@
 package acais;
 
-public class AcaiGrande implements Acai {
+public class AcaiExtraGrande implements Acai {
   @Override
   public double custo() {
-    return 20;
+    return 25;
   }
 
   @Override
   public String mostrarDetalhes() {
-    return "Açai Grande";
+    return "Açai Extra Grande";
   }
 }

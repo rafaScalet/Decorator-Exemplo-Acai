@@ -7,6 +7,8 @@ Baixe o `zip` ou o `tar.gz` das [Releases](https://github.com/rafaScalet/Decorat
 
 ![Diagrama](./Exemplo-Cafe.drawio.svg)
 
+## Perguntas
+
 ## Usagem
 
 ### Clone o projeto:

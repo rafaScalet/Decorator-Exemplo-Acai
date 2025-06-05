@@ -3,7 +3,7 @@ package acais;
 public class AcaiPequeno implements Acai {
   @Override
   public double custo() {
-    return 5;
+    return 10;
   }
 
   @Override
